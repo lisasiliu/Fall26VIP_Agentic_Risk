@@ -13,6 +13,7 @@ Keep rows alphabetical by preferred public name.
 | --- | --- |
 | Bill Qiu | [@zq2082](https://github.com/zq2082) |
 | Enhua Zhu | [@ezhu001](https://github.com/ezhu001) |
+| Lisa Liu | [@lisasiliu](https://github.com/lisasiliu) |
 | Yihan Yao | [@geenana](https://github.com/geenana) |
 | Yusuke Katsuki | [@katsukii](https://github.com/katsukii) |
 | Ziqian Zhu | [@ziqianz360](https://github.com/ziqianz360) |
