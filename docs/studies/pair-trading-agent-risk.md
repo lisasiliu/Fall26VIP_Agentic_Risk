@@ -1,7 +1,7 @@
 # Pair case — Risks in a multi-agent trading workflow (TradingAgents)
 
 - Pair case issue: [#71](https://github.com/zhongnz/Fall26VIP_Agentic_Risk/issues/71)
-- Partners / GitHub usernames: @lisasiliu, @sm11t, Arghya Srivastav (GitHub username to be added once on the roster); team of three
+- Partners / GitHub usernames: @lisasiliu, @sm11t, @arghyas2 (Arghya Srivastav); team of three
 - Peer feedback / reviewer (when arranged; no mentor assignment needed to start): to be arranged
 - Status: outline
 - Dated plan revision and available feedback: 2026-10-07 initial outline from team idea discussion
